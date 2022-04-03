@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/nglna/Desktop/Flutter/Contactos/app/src/main/res/drawable/mas.xml" value="0.2445" />
+        <entry key="..\:/Users/nglna/Desktop/Flutter/Contactos/app/src/main/res/layout/activity_detalle.xml" value="0.25" />
+        <entry key="..\:/Users/nglna/Desktop/Flutter/Contactos/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/nglna/Desktop/Flutter/Contactos/app/src/main/res/layout/activity_nuevo.xml" value="0.25" />
+        <entry key="..\:/Users/nglna/Desktop/Flutter/Contactos/app/src/main/res/layout/switch_item.xml" value="0.25" />
+        <entry key="..\:/Users/nglna/Desktop/Flutter/Contactos/app/src/main/res/layout/template_contacto_grid.xml" value="0.2" />
+        <entry key="..\:/Users/nglna/Desktop/Flutter/Contactos/app/src/main/res/layout/template_contactos.xml" value="0.25" />
+        <entry key="..\:/Users/nglna/Desktop/Flutter/Contactos/app/src/main/res/menu/menu_detalle.xml" value="0.25" />
+        <entry key="..\:/Users/nglna/Desktop/Flutter/Contactos/app/src/main/res/menu/menu_main.xml" value="0.264" />
+        <entry key="..\:/Users/nglna/Desktop/Flutter/Contactos/app/src/main/res/menu/menu_nuevo.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
